@@ -47,7 +47,7 @@ Kami selalu terbuka untuk Anda yang ingin bergabung atau sekadar bertanya.
 - **GMaps**: [maps.app.goo.gl/dKzZZyYdGqaGhCwX8](https://maps.app.goo.gl/dKzZZyYdGqaGhCwX8)
 - **Instagram**: [@bimbeljadicerdas](https://instagram.com/bimbeljadicerdas)  
 - **Website**:
-    - [jadicoders.vercel.app](https://jadicoders.vercel.app)
+    - [jadicoder.vercel.app](https://jadicoder.vercel.app)
     - [bimbeljadicerdas.vercel.app](https://bimbeljadicerdas.vercel.app) (coming soon!)
 
 💻 Mari belajar dan berkontribusi bersama CodeCerdasID! 🚀  
